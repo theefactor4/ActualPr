@@ -23,7 +23,7 @@ import { CartComponent } from './pages/cart/cart.component';
 import { CheckoutComponent } from './pages/checkout/checkout.component';
 
 export const routes: Routes = [
-    {path:"",redirectTo:"/home/home-one",pathMatch:"full"},
+    {path:"",redirectTo:"/home/home-three",pathMatch:"full"},
     {path:'home',children:[
         {path:'home-one',component:HomeOneComponent,title:"Home One - Mykd"},
         {path:'home-two',component:HomeTwoComponent,title:"Home Two - Mykd"},
