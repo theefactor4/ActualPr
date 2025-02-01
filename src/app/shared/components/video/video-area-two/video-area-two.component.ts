@@ -11,8 +11,8 @@ import { RouterModule } from '@angular/router';
 export class VideoAreaTwoComponent {
   // nav data
   navData = [
-    { id: 'about01', title: 'CSGO' },
-    { id: 'about02', title: 'Dota-2' },
+    { id: 'about01', title: 'Mario Odyssey' },
+    { id: 'about02', title: 'Mario Kart Deluxe' },
     { id: 'about03', title: 'Pubg' },
     { id: 'about04', title: 'Freefire' },
     { id: 'about05', title: 'Clash of clan' },
