@@ -36,8 +36,8 @@ const menu_data:IMenuDataType[] = [
     title:'TOURNAMENT',
     link:'#',
     sub_menu:[
-      {title:'TOURNAMENT',link:'/tournament'},
-      {title:'TOURNAMENT Single',link:'/tournament-details'},
+      {title:'Community',link:'/tournament'},
+      {title:'Community Blog',link:'/tournament-details'},
     ]
   },
   {
