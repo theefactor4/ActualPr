@@ -33,7 +33,7 @@ const menu_data:IMenuDataType[] = [
   },
   {
     id:3,
-    title:'TOURNAMENT',
+    title:'Community',
     link:'#',
     sub_menu:[
       {title:'Community',link:'/tournament'},
