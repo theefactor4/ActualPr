@@ -37,7 +37,8 @@ const menu_data:IMenuDataType[] = [
     link:'#',
     sub_menu:[
       {title:'Community',link:'/tournament'},
-      {title:'Community Blog',link:'/tournament-details'},
+      {title:'Blogs',link:'/tournament-details'},
+      {title:'Discussions',link:'/tournament-details'},
     ]
   },
   {
