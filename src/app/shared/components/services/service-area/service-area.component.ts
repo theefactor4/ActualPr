@@ -43,6 +43,17 @@ export class ServiceAreaComponent {
       views: '',
       game: '',
       groups: '',
+    },
+    {
+      id: 3,
+      img: '/assets/img/service/service3-3.png',
+      date: '',
+      time: '',
+      match: '',
+      title: 'PC',
+      views: '',
+      game: '',
+      groups: '',
     }
   ];
 }
