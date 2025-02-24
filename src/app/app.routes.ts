@@ -31,7 +31,7 @@ export const routes: Routes = [
     ]},
     {path:'tournament',component:TournamentComponent,title:"Tournament - Mykd"},
     {path:'tournament-details',component:TournamentDetailsComponent,title:"Tournament Single - Mykd"},
-    {path:'services',component:ServicesComponent,title:"Services - Mykd"},
+    
 
     {path:'login',component:LoginComponent,title:"Login - Mykd"},
     {path:'register',component:RegisterComponent,title:"Register - Mykd"},
