@@ -41,8 +41,7 @@ export const routes: Routes = [
     {path:'shop-details/:id',component:ShopDetailsComponent,title:"Shop Single - Mykd"},
     {path:'reset-password',component:ResetPasswordComponent,title:"Reset Password - Mykd"},
     {path:'about',component:AboutComponent,title:"About - Mykd"},
-    {path:'blog',component:BlogComponent,title:"Blog - Mykd"},
-    {path:'blog-details/:id',component:BlogDetailsComponent,title:'Blog Details - Mykd'},
+ 
     {path:'contact',component:ContactComponent,title:"Contact - Mykd"},
     {path:'**',component:NotFoundComponent,title:"404 - Mykd"},
 ];
